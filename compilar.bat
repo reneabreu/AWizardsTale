@@ -1,0 +1,1 @@
+gcc -o jogo jogo.c -lmingw32 -lSDLmain -lSDL -lSDL_image -lSDL_mixer -lSDL_ttf
